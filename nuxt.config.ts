@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     host: '0.0.0.0' // default: localhost
   },
   devtools: { enabled: true },
+  extends: ['@nuxt/ui-pro'],
   modules: [
     '@nuxt/ui'
   ],
