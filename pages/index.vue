@@ -1,8 +1,5 @@
 <template>
-  <UHeader>
-    
-  </UHeader>
-  <div>
-    <h1 class=" text-2xl text-primary grid place-content-center h-screen ">Welcome to the homepage</h1>
+  <div class=" flex justify-center items-center h-full">
+    <h1 class=" text-6xl text-primary">Welcome to the homepage</h1>
   </div>
 </template>

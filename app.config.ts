@@ -1,7 +1,14 @@
 export default defineAppConfig({
     ui: {
       primary: 'cyan',
-      gray: 'cool'
+      gray: 'gray',
+      variables: {
+        header: {
+          height: '4rem'
+        }
+      }
     }
+    
+
   })
   
