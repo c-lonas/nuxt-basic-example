@@ -1,5 +1,4 @@
 <template>
-  <UHeader />
   <UMain>
     <NuxtLayout>
       <NuxtPage />
